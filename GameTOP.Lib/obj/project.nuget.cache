@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A2W7ftl/0didjbDMHTPopcoeawOuCqiRSvGi2HwWWntgHaMysXuxylCse7kygFIplMLbYyEA9pmr5HRgsHL6oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafael.nogueira\\Desktop\\CONSOLECORE\\GameTOP.Lib\\GameTOP.Lib.csprOJ",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafael.nogueira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rafael.nogueira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
